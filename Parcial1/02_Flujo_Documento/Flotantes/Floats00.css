@@ -1,0 +1,16 @@
+
+h1 { color: white; 
+}
+
+.caja {
+    float: left;
+    width: 250px;
+    background-color: #825ff5;
+    margin: 10px;
+}
+
+
+#caja3 {
+    clear: left;
+    background-color: #53ea58;
+}

@@ -1,0 +1,12 @@
+
+h1 { color: white; 
+}
+
+
+/* Las cajas flotarán de izquierda a derecha*/
+.caja {
+    float: right;
+    width: 250px;
+    background-color: #825ff5;
+    margin: 10px;
+}
