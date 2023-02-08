@@ -11,7 +11,6 @@
   overflow:auto;
 }
 
-
 .cajaInternaFloat {
   float: right;
   background-color: green;
@@ -25,7 +24,6 @@
 
 
 /*
-Un contenedor padre "no vera" los elementos flotantes que tenga dentro
-
-Pero podemos agregar hacer que los vea agregando la propiedad overflow: scroll;
+Un contenedor padre "no vera" los elementos flotantes que tenga dentro de el
+Pero podemos hacer "que los vea" agregando la propiedad overflow:scroll|auto;
 */
