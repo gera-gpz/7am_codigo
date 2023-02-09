@@ -1,0 +1,25 @@
+/* Selector universal */
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+/* Selector de etiqueta */
+body {
+    color:violet;
+}
+
+p {
+    color: blue;
+}
+
+/* Selector por ID */
+#par3 {
+    color: red;
+}
+
+/* Selector de clase */
+.parVerdes {
+    color: green;
+}
