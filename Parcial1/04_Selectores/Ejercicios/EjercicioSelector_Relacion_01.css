@@ -23,15 +23,18 @@
     display: inline-block;
 }
 
-#contenedorExterno .caja {         /*Descendiente*/
+/* #contenedorExterno .caja {      
     background-color: yellow;
-}
+} */
 
-
-#contenedorInterno > .caja {       /*Descendiente Directo*/
+/* 
+#contenedorInterno > .caja {      
     background-color: white;
 }
+*/
 
-#caja1.caja {                      /*ID con la clase*/
+/*
+#caja1.caja {                 
     background-color: purple;
-}
+} 
+*/
